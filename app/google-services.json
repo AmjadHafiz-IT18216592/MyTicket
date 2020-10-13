@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "147354756920",
+    "firebase_url": "https://myticket-9acee.firebaseio.com",
+    "project_id": "myticket-9acee",
+    "storage_bucket": "myticket-9acee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147354756920:android:8bd2ab94612c8a811a03cd",
+        "android_client_info": {
+          "package_name": "com.example.myticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147354756920-37m8gad1dprr7tfg27l0kkgk27nb968a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6P09J10K7WisvbAQJ9_NoAkJF-pKDsd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147354756920-37m8gad1dprr7tfg27l0kkgk27nb968a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
